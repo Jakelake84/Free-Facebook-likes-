@@ -7,7 +7,7 @@ const fs = require('fs');
 // ============================================================
 // 🔥 YOUR BOT CONFIG
 // ============================================================
-const BOT_TOKEN = '8950107483:AAGtvDaNSXEA-fULAPn86B6r5jCEn2fEM-A';
+const BOT_TOKEN = '8604504350:AAEEYDta9iHgqaGdgWT8N1h13YpMZb_gbYg';
 const ADMIN_ID = '8595999663';
 
 // Kruncpoint credentials
